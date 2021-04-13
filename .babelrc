@@ -1,0 +1,1 @@
+{"presets": ["env"]}  // presets env implicitly includes es7,es7,es8
